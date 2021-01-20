@@ -1,4 +1,4 @@
-### GaMax
+# GaMax
 ---
 ## The idea
 
